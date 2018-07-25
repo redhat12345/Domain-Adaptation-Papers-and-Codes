@@ -1,5 +1,6 @@
 # Domain-Adaptation-Papers-and-Code
 
+This repo is about the papers and codes for deep domain adaptation and domain generalization. 
 
 ## NIPS
 
