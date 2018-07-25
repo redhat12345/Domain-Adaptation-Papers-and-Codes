@@ -1,4 +1,4 @@
-# Domain-Adaptation-Papers-and-Code
+# Domain-Adaptation-Papers-and-Codes
 
 This repo is about the papers and codes for deep domain adaptation and domain generalization. 
 
