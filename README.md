@@ -14,6 +14,8 @@ Table of Contents
 
 ## NIPS
 
+* Coupled Generative Adversarial Networks [[2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Code(Caffe and Pytorch(Official))]](https://github.com/mingyuliutw/cogan)
+
 ## ICML
 
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Code(Pytorch(official))]](https://github.com/jhoffman/cycada_release)
