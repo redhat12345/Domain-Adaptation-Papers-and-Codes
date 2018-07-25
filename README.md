@@ -24,6 +24,7 @@ Table of Contents
 
 ## CVPR
 
+* Generate To Adapt: Aligning Domains using Generative Adversarial Networks [[2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sankaranarayanan_Generate_to_Adapt_CVPR_2018_paper.pdf) [[Pytorch(Official)]](https://github.com/yogeshbalaji/Generate_To_Adapt)
 
 
 ## ICCV
