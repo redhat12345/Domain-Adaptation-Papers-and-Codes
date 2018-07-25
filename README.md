@@ -14,13 +14,13 @@ Table of Contents
 
 ## NIPS
 
-* Coupled Generative Adversarial Networks [[2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Code(Caffe and Pytorch(Official))]](https://github.com/mingyuliutw/cogan)
+* Coupled Generative Adversarial Networks [[2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Caffe and Pytorch(Official)]](https://github.com/mingyuliutw/cogan)
 
 ## ICML
 
-* CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Code(Pytorch(official))]](https://github.com/jhoffman/cycada_release)
+* CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Pytorch(official)]](https://github.com/jhoffman/cycada_release)
 
-* Learning Semantic Representations for Unsupervised Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/xie18c.html) [[Code(TensorFlow(official))]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
+* Learning Semantic Representations for Unsupervised Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/xie18c.html) [[TensorFlow(official)]](https://github.com/Mid-Push/Moving-Semantic-Transfer-Network)
 
 ## CVPR
 
