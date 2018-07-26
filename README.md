@@ -16,6 +16,9 @@ Table of Contents
 
 * Coupled Generative Adversarial Networks [[2016]](http://papers.nips.cc/paper/6544-coupled-generative-adversarial-networks) [[Caffe and Pytorch(Official)]](https://github.com/mingyuliutw/cogan)
 
+
+* Domain Separation Networks [[2016]](http://papers.nips.cc/paper/6254-domain-separation-networks) [[Tensorflow(Official)]](https://github.com/tensorflow/models/tree/master/research/domain_adaptation)
+
 ## ICML
 
 * CyCADA: Cycle-Consistent Adversarial Domain Adaptation [[2018]](http://proceedings.mlr.press/v80/hoffman18a.html) [[Pytorch(official)]](https://github.com/jhoffman/cycada_release)
