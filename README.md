@@ -33,6 +33,9 @@ Table of Contents
 * Partial Transfer Learning with Selective Adversarial Networks" [[2018]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf) [[Caffe and Pytorch (official)]](https://github.com/thuml/SAN)
 
 
+* Adversarial Discriminative Domain Adaptation [[2017]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tzeng_Adversarial_Discriminative_Domain_CVPR_2017_paper.pdf) [[Tensorflow(Official)]](https://github.com/erictzeng/adda) [[Pytorch]](https://github.com/corenel/pytorch-adda)
+
+
 ## ICCV
 
 
