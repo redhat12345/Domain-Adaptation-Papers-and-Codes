@@ -40,7 +40,7 @@ Table of Contents
 
 
 ## AAAI
-
+* Multi-Adversarial Domain Adaptation [[2018]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17067) [[Caffe(Official)]](https://github.com/thuml/MADA)
 
 ## ECCV
 
